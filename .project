@@ -3,6 +3,7 @@
 	<name>testTest</name>
 	<comment></comment>
 	<projects>
+		<project>OTRadioLink</project>
 	</projects>
 	<buildSpec>
 		<buildCommand>
