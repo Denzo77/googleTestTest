@@ -5,6 +5,7 @@
  *              - gtest_main
  *              - pthread
  *          - Select Google Testing in Run>Run Configuration>C/C++ Unit Test>testTest>C/C++ Testing and click Apply then Run
+ *          - Saved the test config
  */
 
 #include <stdint.h>
